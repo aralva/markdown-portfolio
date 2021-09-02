@@ -1,1 +1,1 @@
-[descriptive text](https://octodex.github.com/images/yaktocat.png)
+![descriptive text](https://octodex.github.com/images/yaktocat.png)
